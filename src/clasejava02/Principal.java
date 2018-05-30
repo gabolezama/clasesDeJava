@@ -39,6 +39,6 @@ public class Principal {
             System.out.println("La palabras NO es palindromo");
         }
         
-    }
+    }//ñlknfdlskgnñdlskf
     
 }
