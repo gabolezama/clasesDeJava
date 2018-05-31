@@ -18,6 +18,7 @@ public class Principal {
     public static void main(String[] args) {
         
         boolean error=false;
+        String nombre;
         
         Scanner ingresoPalabra=new Scanner(System.in);
         
